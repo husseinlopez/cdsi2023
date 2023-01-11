@@ -1,1 +1,2 @@
-# cdsi2023
+# Data science fot smart sensing
+Welcome to class resources
